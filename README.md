@@ -55,6 +55,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook): OpenAI's cookbook includes examples of prompt engineering.
 - [Tokens and Tokenization: Understanding Cost, Speed, and Limits with OpenAI's APIs](https://www.prompthub.us/blog/tokens-and-tokenization-understanding-cost-speed-and-limits-with-openais-apis): Everything tokens and tokenization. How to control costs/performance, how to handle Max Token limits, and a real-world example on how you can make your prompts more efficient.
 - [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
+- [A Beginner's Guide on Embeddings and Their Impact on Prompts](https://www.prompthub.us/blog/a-beginners-guide-on-embeddings-and-their-impact-on-prompts): A Beginner's Guide on Embeddings and Their Impact on Prompts.
 
 
 ## Techniques
@@ -65,13 +66,12 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
 - [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving.
 with Large Language Models.
+- [Multi Persona Collaboration](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): Prompt the LLM to dynamically generate personas to collaborate to solve a task.
 - [Mastering ChatGPT Prompts](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d/): Mastering ChatGPT Prompts: Harnessing Zero, One, and Few-Shot Learning, Fine-Tuning, and Embeddings for Enhanced GPT Performance.
 - [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150): Prompting GPT-3 To Be Reliable.
 - [Decomposed Prompting](https://arxiv.org/abs/2210.02406): A Modular Approach for Solving Complex Tasks.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
 - [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
-- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
-- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
   
 ## Prompt Collections
 
@@ -165,6 +165,7 @@ with Large Language Models.
 - [Auto-GPT God Mode](https://godmode.space/)
 - [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects.
 - [AgentGPT](https://agentgpt.reworkd.ai): GPT agents in browser.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT): 🧩 DemoGPT enables you to create quick demos by just using prompts.
 
 ## Prompt Injection
 
@@ -182,6 +183,8 @@ with Large Language Models.
 - [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
 - [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
 - [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4).
+- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
+- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
 
 ## ChatGPT Plug-ins
 
